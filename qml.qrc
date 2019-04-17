@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/Fill 1.png</file>
+        <file>assets/light-1.png</file>
+        <file>assets/light-3.png</file>
+        <file>assets/light-5.png</file>
+        <file>assets/light-6.png</file>
+        <file>assets/icons/turn-light.png</file>
+        <file>assets/fonts/HelveticaNeueLTCom-Md.ttf</file>
+        <file>assets/fonts/HelveticaNeueLTCom-Bd.ttf</file>
+        <file>assets/fonts/HelveticaNeueLTCom-Roman.ttf</file>
+        <file>assets/arrows/turn.png</file>
+        <file>Hints.qml</file>
+        <file>Cluster.qml</file>
+        <file>assets/gps-signal.gif</file>
+        <file>assets/fonts/HelveticaNeueLTCom-Lt.ttf</file>
+        <file>Status.qml</file>
+        <file>assets/Cluster.png</file>
+        <file>assets/Rectangle.png</file>
+        <file>Lights.qml</file>
+        <file>Navigation.qml</file>
+        <file>road.geojson</file>
+        <file>assets/map-marker.png</file>
+        <file>assets/map-cover.png</file>
+        <file>assets/Inner shadow.png</file>
+        <file>assets/cluster shape.png</file>
+        <file>Gasoline.qml</file>
+        <file>Signals.qml</file>
+    </qresource>
+</RCC>
